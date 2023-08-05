@@ -8,10 +8,10 @@
 
 ## Описание решения задачи
 
-В рамках открытия модуля "База данных в музее" попасть в музей не удалось, однако до открытия блока провел в ["Федеральном государственном бюджетном учреждении культуры «Государственный Эрмитаж»"](https://www.hermitagemuseum.org/wps/portal/hermitage?lng=ru) более 4 часов. Фотографии "себя" на фоне здания нет, есть только фотографии внутри ([каталог images](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/tree/main/img)).
+В рамках открытия модуля "База данных в музее" попасть в музей не удалось, однако до открытия блока провел в ["Федеральном государственном бюджетном учреждении культуры «Государственный Эрмитаж»"](https://www.hermitagemuseum.org/wps/portal/hermitage?lng=ru) более 4 часов. Фотографии "себя" на фоне здания нет, есть только фотографии внутри ([каталог images](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/tree/main/img)).
 
 Со своей стороны, в ходе написания структуры таблиц и их взаимосвзей остановился на 20 таблицах. Продолжить расширять их количество остановило то, что процесс решения вылился в "высасывание из пальца". Считаю, что с поставленной перед собой задачей справился с представленным количеством таблиц базы данных.
 
-- Поставленная перед собой задача описана в рамках ["Сценарий использования базы данных"](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/blob/main/DatabaseScenario.md).
-- Таблицы представлены и описаны в ["Перечень сущностей в базе данных"](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/blob/main/DatabaseEntities.md).
-- Схема взаимосвязей прикреплена файлом [ER-diagram_Database.png](https://github.com/AllIWantIsNotAvailable/GeekBrains_MuseumDatabase/blob/main/ER-diagram_Database.png)
+- Поставленная перед собой задача описана в рамках ["Сценарий использования базы данных"](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/DataBaseScenario.md).
+- Таблицы представлены и описаны в ["Перечень сущностей в базе данных"](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/DataBaseEntities.md).
+- Схема взаимосвязей прикреплена файлом [ER-diagram_Database.png](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/diagram_DataBase.png)
