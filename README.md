@@ -14,4 +14,4 @@
 
 - Поставленная перед собой задача описана в рамках ["Сценарий использования базы данных"](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/DataBaseScenario.md).
 - Таблицы представлены и описаны в ["Перечень сущностей в базе данных"](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/DataBaseEntities.md).
-- Схема взаимосвязей прикреплена файлом [ER-diagram_Database.png](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/diagram_DataBase.png)
+- Схема взаимосвязей прикреплена файлом [diagram_DataBase.png](https://github.com/SvyatoslavStan/DataBaseHermitageMuseum/blob/main/diagram_DataBase.png)
